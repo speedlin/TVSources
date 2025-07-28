@@ -1,5 +1,14 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-name="翡翠台" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合",[BD]翡翠
-https://stream1.freetv.fun/b6805e649e0c7b8193b4fd6d6b407675b3254a0eca4b30ef8ed033b5202b285e.ctv
-#EXTINF:-1 tvg-name="CCTV1" tvg-id="368366" tvg-country="中国" tvg-language="国語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="368360" tvg-country="中国" tvg-language="国語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合",CCTV1
 https://stream1.freetv.fun/32ffa2564ab4fb42cfee729bd591e3c9474de01cceecf63b25a6c5f059c5d38c.ctv
+#EXTINF:-1 tvg-name="CCTV4" tvg-id="368361" tvg-country="中国" tvg-language="国語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合",CCTV1
+https://stream1.freetv.fun/8706fab065b376dc79174f532b734da2a6b563aa35ea352a9f0d8572e0280e93.ctv
+#EXTINF:-1 tvg-name="安徽卫视" tvg-id="368362" tvg-country="中国" tvg-language="国語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合",安徽卫视
+https://stream1.freetv.fun/a8dfd52c55cbb793b3a4d151d11716b0ced26f1914b2db2f55e9e38489021e24.ctv
+#EXTINF:-1 tvg-name="浙江卫视" tvg-id="368363" tvg-country="中国" tvg-language="国語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合",浙江卫视
+https://stream1.freetv.fun/64c25c5a67cc422ce7d24ae334639387c0f63b2d0a1fb54a610670a27b576655.ctv
+#EXTINF:-1 tvg-name="广东卫视" tvg-id="368364" tvg-country="中国" tvg-language="国語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合",广东卫视
+https://stream1.freetv.fun/d55f4233098fdf8455bb9f74664633957309fc6961376cff51413b688e21c14e.ctv
+#EXTINF:-1 tvg-name="翡翠台" tvg-id="368365" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合",[BD]翡翠
+https://stream1.freetv.fun/b6805e649e0c7b8193b4fd6d6b407675b3254a0eca4b30ef8ed033b5202b285e.ctv
+
