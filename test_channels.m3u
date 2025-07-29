@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="368360" tvg-country="中国" tvg-language="国語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合",CCTV1
-https://stream1.freetv.fun/025df202c33a9131f669e11590e1f99103a74c1a4d152412e9b54773396776fb.ctv
+https://stream.iptv-search.com/main.php?id=CCTV1&t=1752825547&token=a35161a8934821123a485671caddd4a5
 #EXTINF:-1 tvg-name="CCTV4" tvg-id="368361" tvg-country="中国" tvg-language="国語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合",CCTV4
-https://stream1.freetv.fun/3602f64d4498ebebf73ab4438653f6ede304d8ddbb989952bbeb4aed5ef3abbb.ctv
+https://stream.iptv-search.com/main.php?id=CCTV4&t=1752825547&token=b6000f47eb2a1c031602e9572ace6e3e
 #EXTINF:-1 tvg-name="安徽卫视" tvg-id="368362" tvg-country="中国" tvg-language="国語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合",安徽卫视
 https://stream1.freetv.fun/48bbd2894fc30bcf2ded53d6ce15797c23177f1e4a428f2ca392d5c98977795b.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-id="368363" tvg-country="中国" tvg-language="国語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合",浙江卫视
